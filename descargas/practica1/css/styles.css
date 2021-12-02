@@ -1,0 +1,79 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #22577A;
+  font-family: 'Gowun Batan', serif;
+}
+h2{
+  font-size: 2.5rem;
+  margin-top: 50px;
+  font-family: "Sacramento", cursive;
+  line-height: 2;
+}
+h3{
+  font-family: "Oxygen", sans-serif;
+
+}
+p{
+  font-family: "Georgia", serif;
+}
+hr{
+  margin: 0;
+  border-color: #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  margin: auto;
+}
+.topcontainer {
+  background-color: #22577A;
+  color: white;
+}
+
+.midcontainer {
+  background-color: #38A3A5;
+  color: white;
+  border: 0;
+}
+
+.img-hoobies{
+  width: 200px;
+  height: 200px;
+  border-radius: 30px;
+  margin-bottom: 20px;
+}
+
+.seccion-hab{
+  width: 60%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 2;
+}
+.img-org{
+  width: 185px;
+  float: left;
+  border-radius: 100px;
+  margin-right: 30px;
+}
+
+.img-codigo{
+  width: 185px;
+  float: left;
+  border-radius: 100px;
+  margin-right: 30px;
+}
+
+.img-hab{
+  width: 185px;
+  border-radius: 100px;
+  float: right;
+  margin-left: 30px;
+}
+
+.sobre-mi{
+  margin-left: 30%;
+  margin-right: 30%;
+}
