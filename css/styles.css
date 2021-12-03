@@ -156,6 +156,10 @@ a:visited{
   padding-right: 20px;
 
 }
+.practica1:hover {
+  opacity: 1;
+  color: lightblue;
+}
 .practica1 {
   width: 400px;
   border-radius: 20px;
