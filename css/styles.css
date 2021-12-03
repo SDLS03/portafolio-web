@@ -162,9 +162,7 @@ a:visited{
   height: 350px;
   border-radius: 20px;
 }
-.practica1:hover {
-  background-color: lightblue;
-}
+
 .contenedor-bajo {
   background-color: #CEF0FB;
   padding: 30px 0 30px;
